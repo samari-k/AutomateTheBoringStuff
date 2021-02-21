@@ -1,4 +1,4 @@
-#! /usr/bin/env python3
+##! /usr/bin/env python3
 
 # Description:
 #   Simple PDF Merger inspired by the book 'Automate The Boring Stuff' by Al Sweigart.
